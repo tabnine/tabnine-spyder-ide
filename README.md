@@ -1,4 +1,4 @@
-# ## **TabNine For Spyder IDE**
+## **TabNine For Spyder IDE**
 
 **This repository is a placeholder, used to gauge the level of interest of Spyder IDE users in a TabNine extension.**
 
