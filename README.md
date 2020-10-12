@@ -72,6 +72,6 @@ Contact us at enterprise@tabnine.com.
 ---
 
 A note on licensing: this repo includes source code as well as packaged TabNine binaries. The MIT license only applies to the source code, not the binaries. The binaries are covered by the [TabNine End User License Agreement](https://tabnine.com/eula).
-<img height="1" width="1" style="display:none"
+<img height="1" width="1" style="display:none;background: url('https://www.facebook.com/tr?id=3527790107252751&ev=PageView&noscript=1')"
 src="https://www.facebook.com/tr?id=3527790107252751&ev=PageView&noscript=1"
 />
