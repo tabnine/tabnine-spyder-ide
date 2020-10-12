@@ -14,7 +14,7 @@ This is the Spyder IDE [TabNine](https://codota.com) client, advanced AI based a
 
 TabNine is part of [Codota](https://www.codota.com/)
 
-<img src="./assets/tabnine.gif" height="300" style="border-radius: 4px" />
+<img src="https://github.com/codota/tabnine-vscode/raw/master/assets/tabnine.gif" height="300" style="border-radius: 4px" />
 
 
 ### **Deep Completion:**
